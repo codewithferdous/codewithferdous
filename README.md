@@ -70,17 +70,6 @@ I specialize in backend development, microservices, and creative problem-solving
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferdousgulzar&show_icons=true&theme=gruvbox&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdousgulzar&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdousgulzar&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzamil995&show_icons=true&locale=en&layout=compact" alt="muzamil995" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzamil995&show_icons=true&locale=en" alt="muzamil995" /></p>
