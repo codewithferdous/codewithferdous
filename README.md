@@ -57,29 +57,16 @@ I specialize in backend development, microservices, and creative problem-solving
 
 | Project | Description |
 |--------|-------------|
-| 🎯 **NeuroBank** | Modern ATM & digital banking simulation using Java & MySQL |
-| 📡 **SignalWave** | Real-time QR Code generator & scanner using React + Node |
-| 🎮 **ChronoDash** | Arcade-style 2D game made in Unity with levels & power-ups |
-| 🧬 **Compresso** | Huffman-based data compressor visualized in JavaFX |
-| 📚 **MindVault LMS** | E-learning platform with Spring Boot + SQL Server |
-| 📅 **MarkMate** | Attendance automation tool with custom UI (HTML/CSS/JS) |
+
+| 🚀 Project | 🌟 Description |
+|-----------|----------------|
+| 📡 **QRNova** | Real-time Student Management System **React** and **Node.js**, optimized for cross-device compatibility. |
+| 🎮 **EchoRun** | A retro-futuristic **2D arcade platformer** built in **Unity**, featuring time loops, power-ups, and layered challenges. |
+| 🧬 **ZipSage** | A data compression visualizer utilizing **Huffman Encoding** in **JavaFX**, perfect for understanding algorithmic flow. |
+| 📅 **PresenceX** | A sleek **attendance automation tool** with custom HTML/CSS/JS frontend and exportable reports, built for modern classrooms and teams. |
 
 ---
 
-## 🌀 3D Model Preview
-
-<p align="center">
-  <iframe title="3D Portfolio Model" frameborder="0" width="400" height="300"
-    allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"
-    src="https://sketchfab.com/models/3d1efb1cf50b4f57bd2e2ad8d4ccfb90/embed">
-  </iframe>
-  <br/>
-  <em>🧊 Model: Floating Dev Cube (Sample Sketchfab Embed)</em>
-</p>
-
-> ✨ Upload your `.glb` model to [Sketchfab](https://sketchfab.com/) and embed your own 3D art here.
-
----
 
 ## 📈 GitHub Stats
 
@@ -93,6 +80,12 @@ I specialize in backend development, microservices, and creative problem-solving
 </p>
 
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzamil995&show_icons=true&locale=en&layout=compact" alt="muzamil995" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzamil995&show_icons=true&locale=en" alt="muzamil995" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil995&" alt="muzamil995" /></p>
 
 ## 🔗 Connect with Me
 
