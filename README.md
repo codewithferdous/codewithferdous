@@ -1,9 +1,4 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil995&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil995" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzamil995" alt="muzamil995" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h1 align="center">✨ Ferdous Gulzar</h1>
 <h3 align="center">Crafting Clean Code | Backend Whisperer | 3D Tech Enthusiast</h3>
 
@@ -11,17 +6,13 @@
   <em>“I don’t just build apps—I engineer experiences.”</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ferdousgulzar&label=Profile%20views&color=0e75b6&style=flat" alt="ferdousgulzar" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ferdousgulzar&theme=radical" alt="Trophies" />
-  </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil995&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil995" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzamil995" alt="muzamil995" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 ## 🌍 About Me
 
