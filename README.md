@@ -24,7 +24,7 @@ I specialize in backend development, microservices, and creative problem-solving
 - 🌱 Currently exploring: **OpenGL, 3D Web Experiences, and AI Integration**  
 - 👯 I’m looking to collaborate on **Backend, App & 3D tech projects**  
 - 💬 Ask me about **Java, Flutter, Firebase, and clean architecture**  
-- 📫 Reach me at: **ferdousgulzar@example.com**
+- 📫 Reach me at: **ferdousgulzar543@gmail.com**
 
 ---
 
