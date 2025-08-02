@@ -72,7 +72,6 @@ I specialize in backend development, microservices, and creative problem-solving
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzamil995&show_icons=true&locale=en&layout=compact" alt="muzamil995" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzamil995&show_icons=true&locale=en" alt="muzamil995" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil995&" alt="muzamil995" /></p>
 
