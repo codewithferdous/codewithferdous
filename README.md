@@ -54,17 +54,16 @@ I am passionate about **Artificial Intelligence, Machine Learning, and Data-Driv
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Featured Projects  
 
 | Project | Description |
-|--------|-------------|
+|---------|-------------|
+| 🧳 **Hepta Travelling System** | A complete **travel booking platform** built with **React.js**, designed for seamless user experience and scalability. |
+| 📅 **PresenceX** | An **Attendance Management System** with an interactive frontend and automated reporting, built to simplify classroom and team management. |
+| 🏹 **Archery 3D Game** | An immersive **3D archery game** developed using **Unity**, showcasing physics, mechanics, and interactive gameplay. |
+| 🌐 **CodeCrux** | A modern **web-based project** focusing on clean UI/UX and structured architecture for real-world applications. |
+| 🧬 **Huffman Coding Visualizer** | A **Data Structures project** that visualizes **Huffman Encoding** in Java, aiding in understanding algorithmic flow and compression techniques. |
 
-| 🚀 Project | 🌟 Description |
-|-----------|----------------|
-| 📡 **QRNova** | Real-time Student Management System **React** and **Node.js**, optimized for cross-device compatibility. |
-| 🎮 **EchoRun** | A retro-futuristic **2D arcade platformer** built in **Unity**, featuring time loops, power-ups, and layered challenges. |
-| 🧬 **ZipSage** | A data compression visualizer utilizing **Huffman Encoding** in **JavaFX**, perfect for understanding algorithmic flow. |
-| 📅 **PresenceX** | A sleek **attendance automation tool** with custom HTML/CSS/JS frontend and exportable reports, built for modern classrooms and teams. |
 
 ---
 
