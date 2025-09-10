@@ -14,19 +14,20 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-## 🌍 About Me
+## 🌍 About Me  
 
-Hi, I'm **Ferdous Gulzar**, a passionate software engineer in the making from **COMSATS University, Abbottabad** 🎓.  
-I specialize in backend development, microservices, and creative problem-solving. My love for **3D interfaces** and **interactive systems** pushes me beyond traditional code.
+Hi, I'm **Ferdous Gulzar**, an aspiring **AI/ML Engineer** from **COMSATS University, Abbottabad** 🎓.  
+I am passionate about **Artificial Intelligence, Machine Learning, and Data-Driven Solutions**, with a creative edge in **3D interfaces** and **interactive systems**.  
 
-- 🎮 Game Developer | Java & Spring Specialist  
-- 🧠 Lifelong Learner | Tech Storyteller  
-- 🌱 Currently exploring: **OpenGL, 3D Web Experiences, and AI Integration**  
-- 👯 I’m looking to collaborate on **Backend, App & 3D tech projects**  
-- 💬 Ask me about **Java, Flutter, Firebase, and clean architecture**  
-- 📫 Reach me at: **ferdousgulzar543@gmail.com**
+- 🤖 Exploring **AI, Machine Learning, and Deep Learning**  
+- 🎮 Game Developer | Strong in **Java, Python**  
+- 🌱 Currently working on **AI Integration,  and 3D Web Experiences**  
+- 👯 Open to collaborating on **AI/ML, App Development, and 3D Tech Projects**  
+- 💬 Ask me about **ML Algorithms, Python, Java, Flutter, Flask, and Clean Architecture**  
+- 📫 Reach me at: **ferdousgulzar543@gmail.com**  
 
 ---
+
 
 ## 🧰 Languages and Tools
 
