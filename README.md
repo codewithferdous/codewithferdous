@@ -1,6 +1,6 @@
 
 <h1 align="center">✨ Ferdous Gulzar</h1>
-<h3 align="center">Crafting Clean Code | Backend Whisperer | 3D Tech Enthusiast</h3>
+<h3 align="center">Crafting Clean Code |Creative Technologist | 3D Tech Enthusiast</h3>
 
 <p align="center">
   <em>“I don’t just build apps—I engineer experiences.”</em>
