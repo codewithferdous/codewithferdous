@@ -1,18 +1,21 @@
-
 <h1 align="center">✨ Ferdous Gulzar</h1>
-<h3 align="center">Crafting Clean Code |Creative Technologist | 3D Tech Enthusiast</h3>
+<h3 align="center">Crafting Clean Code | Creative Technologist | 3D Tech Enthusiast</h3>
 
 <p align="center">
   <em>“I don’t just build apps—I engineer experiences.”</em>
 </p>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=codewithferdous&label=Profile%20views&color=0e75b6&style=flat" alt="codewithferdous" /> 
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil995&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil995" /> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=codewithferdous" alt="codewithferdous" />
+  </a> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzamil995" alt="muzamil995" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+---
 
 ## 🌍 About Me  
 
@@ -21,28 +24,33 @@ I am passionate about **Artificial Intelligence, Machine Learning, and Data-Driv
 
 - 🤖 Exploring **AI, Machine Learning, and Deep Learning**  
 - 🎮 Game Developer | Strong in **Java, Python**  
-- 🌱 Currently working on **AI Integration,  and 3D Web Experiences**  
+- 🌱 Currently working on **AI Integration and 3D Web Experiences**  
 - 👯 Open to collaborating on **AI/ML, App Development, and 3D Tech Projects**  
 - 💬 Ask me about **ML Algorithms, Python, Java, Flutter, Flask, and Clean Architecture**  
 - 📫 Reach me at: **ferdousgulzar543@gmail.com**  
 
 ---
 
-
-## 🧰 Languages and Tools
+## 🧰 Languages and Tools  
 
 <p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -64,20 +72,25 @@ I am passionate about **Artificial Intelligence, Machine Learning, and Data-Driv
 | 🌐 **CodeCrux** | A modern **web-based project** focusing on clean UI/UX and structured architecture for real-world applications. |
 | 🧬 **Huffman Coding Visualizer** | A **Data Structures project** that visualizes **Huffman Encoding** in Java, aiding in understanding algorithmic flow and compression techniques. |
 
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithferdous&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithferdous&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithferdous&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 ---
 
-
-## 📈 GitHub Stats
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil995&" alt="muzamil995" /></p>
-
-## 🔗 Connect with Me
+## 🔗 Connect with Me  
 
 <p align="center">
   <a href="https://github.com/codewithferdous"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ferdous-gulzar-27957436b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="ferdousgulzar543@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ferdousgulzar543@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
