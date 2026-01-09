@@ -5,59 +5,90 @@
   <em>“I don’t just build apps—I engineer experiences.”</em>
 </p>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=codewithferdous&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=codewithferdous" alt="GitHub Trophy" />
+  </a> 
+</p>
+
 ---
 
-## 🌍 About Me
-Hi, I'm **Ferdous Gulzar**, an aspiring **AI/ML Engineer** from **COMSATS University, Abbottabad** 🎓.  
-Passionate about **AI, Machine Learning, and 3D interactive systems**.
+## 🌍 About Me  
 
-- 🤖 Exploring **AI, ML, Deep Learning**  
+Hi, I'm **Ferdous Gulzar**, an aspiring **AI/ML Engineer** from **COMSATS University, Abbottabad** 🎓.  
+I am passionate about **Artificial Intelligence, Machine Learning, and Data-Driven Solutions**, with a creative edge in **3D interfaces** and **interactive systems**.  
+
+- 🤖 Exploring **AI, Machine Learning, and Deep Learning**  
 - 🎮 Game Developer | Strong in **Java, Python**  
 - 🌱 Currently working on **AI Integration and 3D Web Experiences**  
-- 👯 Open to collaborating on **AI/ML & 3D Tech Projects**  
-- 💬 Ask me about **ML, Python, Java, Flutter, Flask**  
-- 📫 Email: **ferdousgulzar543@gmail.com**
+- 👯 Open to collaborating on **AI/ML, App Development, and 3D Tech Projects**  
+- 💬 Ask me about **ML Algorithms, Python, Java, Flutter, Flask, and Clean Architecture**  
+- 📫 Reach me at: **ferdousgulzar543@gmail.com**  
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Languages and Tools  
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Featured Projects  
+
 | Project | Description |
 |---------|-------------|
-| 🧳 **Hepta Travelling System** | Complete travel booking platform with **React.js** |
-| 📅 **PresenceX** | Attendance Management System with interactive frontend |
-| 🏹 **Archery 3D Game** | Immersive 3D archery game developed in **Unity** |
-| 🌐 **CodeCrux** | Modern web project with clean UI/UX and structured architecture |
-| 🧬 **Huffman Coding Visualizer** | Visualizes **Huffman Encoding** in Java |
+| 🧳 **Hepta Travelling System** | A complete **travel booking platform** built with **React.js**, designed for seamless user experience and scalability. |
+| 📅 **PresenceX** | An **Attendance Management System** with an interactive frontend and automated reporting, built to simplify classroom and team management. |
+| 🏹 **Archery 3D Game** | An immersive **3D archery game** developed using **Unity**, showcasing physics, mechanics, and interactive gameplay. |
+| 🌐 **CodeCrux** | A modern **web-based project** focusing on clean UI/UX and structured architecture for real-world applications. |
+| 🧬 **Huffman Coding Visualizer** | A **Data Structures project** that visualizes **Huffman Encoding** in Java, aiding in understanding algorithmic flow and compression techniques. |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithferdous&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithferdous&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithferdous&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithferdous&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithferdous&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithferdous&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me  
+
 <p align="center">
   <a href="https://github.com/codewithferdous"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ferdous-gulzar-27957436b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
