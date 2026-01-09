@@ -11,7 +11,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codewithferdous" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=codewithferdous&theme=tokyonight" alt="GitHub Trophy" />
   </a> 
 </p>
 
@@ -70,27 +70,4 @@ I am passionate about **Artificial Intelligence, Machine Learning, and Data-Driv
 | 📅 **PresenceX** | An **Attendance Management System** with an interactive frontend and automated reporting, built to simplify classroom and team management. |
 | 🏹 **Archery 3D Game** | An immersive **3D archery game** developed using **Unity**, showcasing physics, mechanics, and interactive gameplay. |
 | 🌐 **CodeCrux** | A modern **web-based project** focusing on clean UI/UX and structured architecture for real-world applications. |
-| 🧬 **Huffman Coding Visualizer** | A **Data Structures project** that visualizes **Huffman Encoding** in Java, aiding in understanding algorithmic flow and compression techniques. |
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithferdous&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithferdous&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithferdous&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🔗 Connect with Me  
-
-<p align="center">
-  <a href="https://github.com/codewithferdous"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ferdous-gulzar-27957436b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ferdousgulzar543@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+| 🧬 **Huffman Coding Visualizer** | A **Data Structures proj**
